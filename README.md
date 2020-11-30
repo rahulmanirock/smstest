@@ -48,7 +48,7 @@ Created API for Elements , Commodity , Chemical composition.
 
 
 
-FOR GETTING TOKEN FOR AUTHENTICATION - 
+**FOR GETTING TOKEN FOR AUTHENTICATION -** 
 
 POST http://localhost:8000/api/token/
 
